@@ -1,3 +1,3 @@
 # parental-vaccine-hesitancy
  
-Data used for all analyses, figures, and tables 
+Data and Code used for analyses, figures, and tables 
